@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  background-color: #0b120d;
+  color: #efe6cf;
+  background-image:
+    radial-gradient(circle at 15% 0%, rgba(127, 174, 90, 0.10), transparent 45%),
+    radial-gradient(circle at 85% 20%, rgba(231, 198, 90, 0.06), transparent 40%);
+  background-attachment: fixed;
+}
+
+.leaf-card {
+  background: linear-gradient(180deg, rgba(28, 49, 32, 0.75), rgba(15, 26, 18, 0.85));
+  border: 1px solid rgba(127, 174, 90, 0.25);
+  backdrop-filter: blur(2px);
+}
+
+.leaf-card:hover {
+  border-color: rgba(231, 198, 90, 0.55);
+}
+
+.sigil-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(231, 198, 90, 0.5), transparent);
+}
+
+::selection {
+  background: rgba(231, 198, 90, 0.35);
+}
+
+input, textarea, select {
+  background-color: rgba(11, 18, 13, 0.6);
+  border: 1px solid rgba(127, 174, 90, 0.35);
+  color: #efe6cf;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: 2px solid rgba(231, 198, 90, 0.7);
+  outline-offset: 1px;
+}
