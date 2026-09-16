@@ -1,156 +1,65 @@
-# Collei — Traveler's Almanac
+# Collei website preview
 
-A companion website for the Collei Telegram bot: character build cards, boss
-notes, artifact sets, and live countdowns for wish banners, Spiral Abyss,
-Imaginarium Theater, and Stygian Onslaught — all editable from a password
-protected admin panel, no coding required after setup.
+This is a standalone, locally tested implementation prepared from the supplied Collei bot files. It has NOT been deployed over collei-web.vercel.app. That existing site already has cards, guides, bosses, banners and an admin login. Obtain its source and port these additions into that project before deploying; do not replace its database or authentication blindly.
 
-Built with **Next.js** (App Router) + **MongoDB**. Both have generous free
-tiers, so the whole site can run at **$0/month**.
+## Included
 
----
+- Public searchable character, weapon, artifact, banner and endgame categories.
+- 150 imported character records (including variants), 246 weapons and six endgame image collections.
+- Character cards/guides, skill/passive descriptions and collapsed constellation sections.
+- Admin content editor with titles, descriptions, images, sections, drafts and publishing.
+- MongoDB-backed content overrides, pooled connections, signed HttpOnly session cookie, origin validation and database-backed login throttling.
+- Optional Telegram /site and /library search integration using the same published content API.
 
-## 1. What you're setting up
+## Not yet connected
 
-| Piece | Free service | What it does |
-|---|---|---|
-| Database | [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register) (free M0 cluster) | Stores characters, guides, bosses, artifacts, banners, endgame countdowns |
-| Hosting | [Vercel](https://vercel.com/signup) (free Hobby plan) | Serves the website, runs the admin API |
-| Image hosting (optional) | [ImgBB](https://api.imgbb.com/) (free API key) | Lets the admin panel upload images directly instead of pasting URLs |
+- No Vercel deployment or live MongoDB connection has been made. The source of the existing site is required for integration.
+- Artifact and banner details were not present in the supplied bot ZIP. Their categories are ready to populate through the editor. No live banner or rotation feed is connected.
+- Imported endgame cards are snapshots, not a claim about the current cycle.
+- Weapon image files were not supplied; entries without a public URL show a reference tile.
+- The supplied character data is preserved, including any source errors. Repeated character names are distinguished using their skill or record identifier.
+- Complaint/user settings migration and dashboard support replies are not included in this preview. No private bot data was imported.
+- Existing bot commands still use their existing data. The optional /library command reads website updates; this is not a replacement for every original handler.
 
-You don't need a credit card for any of these on the free tiers.
+## Local preview
 
----
+Use Node 24. Run `npm ci`, `npm test`, `npm run build`, then `npm run dev`.
+Open http://127.0.0.1:4173. Without database configuration the public API serves the bundled snapshot and admin access is disabled.
 
-## 2. Create your MongoDB Atlas database (free)
+To test a configured environment, create .env from .env.example and run `node --env-file=.env scripts/dev.mjs`. Use SITE_ORIGIN=http://127.0.0.1:4173 locally. Never commit .env.
 
-1. Go to https://www.mongodb.com/cloud/atlas/register and create a free account.
-2. Create a new **Project**, then click **Build a Database** → choose **M0 (Free)**.
-3. Pick any cloud provider/region close to you and create the cluster (takes ~1-3 min).
-4. Under **Security → Database Access**, add a database user with a username/password (save these).
-5. Under **Security → Network Access**, click **Add IP Address** → **Allow Access From Anywhere** (`0.0.0.0/0`). This is required because Vercel's servers use rotating IPs.
-6. Go to **Database → Connect → Drivers**, copy the connection string. It looks like:
+## Vercel configuration (after merging with the existing source)
+
+This standalone version uses Framework Preset Other, build `npm run build`, output `public`, Node 24. The api/index.js function handles /api routes via vercel.json.
+
+Set these environment variables in Vercel, not in browser JavaScript:
+
+- MONGODB_URI: a database connection string with access only to the intended database.
+- MONGODB_DATABASE: collei_site (separate from existing bot records by default).
+- ADMIN_PASSWORD: a unique random password of at least 20 characters.
+- SESSION_SECRET: a separate random secret of at least 32 characters.
+- SITE_ORIGIN: https://collei-web.vercel.app, or the exact origin of the deployment being tested. A preview URL needs its own matching origin.
+
+Generate each secret separately with `node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"`.
+
+MongoDB network access must allow the deployment to connect. Set the function region near your database. Sign in at /admin.html. New entries default to draft; publishing makes them publicly readable. Session secrets and passwords must never be supplied to public API consumers.
+
+## Optional bot integration
+
+Do not install this before the matching API is deployed.
+
+1. Copy bot-integration/site_library.py to handlers/site_library.py in the bot.
+2. Register its router before main_router in main():
+   ```python
+   from handlers.site_library import router as site_router
+   dp.include_router(site_router)
    ```
-   mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
-   ```
-   Replace `<username>`/`<password>` with the user you created. This is your `MONGODB_URI`.
+   bot-integration/main.py contains that change against the supplied Collei version. If your bot has newer edits, merge those two lines instead of overwriting main.py.
+3. Add COLLEI_SITE_URL=https://collei-web.vercel.app to the bot environment and restart.
+4. Use /library Nahida or /site. Shared data is cached for 60 seconds. Telegram must support the rich-message API already used by this Collei version.
 
----
+No Telegram token, MongoDB password, cookies, user data or complaint records are bundled.
 
-## 3. (Optional) Get a free ImgBB key
+## Validation
 
-This lets the admin panel's "Upload" button work. If you skip this, admins can
-still add images by pasting a URL (e.g. from imgbb.com, Discord, Imgur).
-
-1. Go to https://api.imgbb.com/ and sign up (free).
-2. Copy your API key — this is `IMGBB_API_KEY`.
-
----
-
-## 4. Run it locally first (recommended)
-
-You'll need [Node.js 18+](https://nodejs.org/) installed.
-
-```bash
-cd collei-web
-npm install
-cp .env.example .env.local
-```
-
-Edit `.env.local`:
-
-```env
-MONGODB_URI=mongodb+srv://youruser:yourpass@cluster0.xxxxx.mongodb.net/collei?retryWrites=true&w=majority
-ADMIN_USERNAME=admin
-ADMIN_PASSWORD=pick-a-strong-password
-JWT_SECRET=any-long-random-string-at-least-32-characters
-IMGBB_API_KEY=your-imgbb-key-or-leave-blank
-```
-
-Import your existing bot data (character cards + build guides that already
-have public image URLs, plus a boss list):
-
-```bash
-npm run seed
-```
-
-Start the dev server:
-
-```bash
-npm run dev
-```
-
-Visit http://localhost:3000 for the public site, and
-http://localhost:3000/admin/login to sign in with the admin credentials you set above.
-
----
-
-## 5. Deploy for free on Vercel
-
-1. Push this `collei-web` folder to a GitHub repository (Vercel deploys from Git).
-2. Go to https://vercel.com, sign in with GitHub, click **Add New → Project**, and import the repo.
-3. Before deploying, open **Environment Variables** and add the same values from your `.env.local`:
-   - `MONGODB_URI`
-   - `ADMIN_USERNAME`
-   - `ADMIN_PASSWORD`
-   - `JWT_SECRET`
-   - `IMGBB_API_KEY` (optional)
-4. Click **Deploy**. Vercel's free Hobby plan covers this comfortably.
-5. Once deployed, run the seed script once against your production database
-   (you can run `npm run seed` locally — it uses whatever `MONGODB_URI` is in
-   `.env.local`, so point it at the same Atlas cluster you gave Vercel).
-6. Visit `https://your-project.vercel.app/admin/login` to manage content.
-
-That's it — the site is live, backed by a free database, with zero ongoing cost.
-
----
-
-## 6. Using the admin panel
-
-Go to `/admin/login` and sign in with `ADMIN_USERNAME` / `ADMIN_PASSWORD`.
-
-- **Characters** — add a character card (name, key, element, weapon, rarity, image).
-- **Build guides** — attach one or more guide images to a character.
-- **Bosses** — add a boss card image and any number of fight-guide images.
-- **Artifacts** — add artifact sets with 2pc/4pc bonus text and an image.
-- **Endgame** — set the current/next reset time (per region: Asia/EU/NA) for
-  Spiral Abyss, Imaginarium Theater, and Stygian Onslaught, plus optional
-  lineup images. The public `/endgame` page shows a live, ticking countdown
-  built from these times.
-- **Banners** — set current/next wish banner characters, countdown times, and
-  icons, plus an optional special event.
-
-All image fields accept either a pasted URL or a direct upload (via ImgBB, if
-you configured `IMGBB_API_KEY`).
-
----
-
-## 7. Keeping the bot and website in sync (optional)
-
-The bot's `cards.json` / `guides.json` already store public `image_url`
-values (imgbb links) alongside each Telegram `file_id`. The `npm run seed`
-script reads those same files, so anytime you add new cards/guides through
-the bot, you can re-run `npm run seed` to pull the new entries into the
-website too — it skips anything already imported.
-
-`bosses.json` in the bot only stores Telegram `file_id`s (not public URLs),
-so boss images need to be added once directly through `/admin/bosses`.
-
----
-
-## 8. Project structure
-
-```
-collei-web/
-  app/                 Pages (public site + /admin panel) and API routes
-  components/          Shared UI: Navbar, Countdown, image inputs
-  lib/                 MongoDB connection, Mongoose models, admin auth
-  scripts/seed.js       One-time import of the bot's existing JSON data
-  middleware.js         Protects /admin pages and write API calls
-```
-
-## 9. Changing the admin password later
-
-Just update `ADMIN_PASSWORD` (and redeploy on Vercel, or restart locally).
-There's a single shared admin login — if you want multiple named admins with
-separate logins later, that's a natural next step to build on top of this.
+Offline tests check the public/draft boundary, input validation, session tampering, request origins and imported records. Local browser checks cover search and character cards/constellation tabs. Live MongoDB writes, deployment, and Telegram delivery still require integration testing with the intended services.
