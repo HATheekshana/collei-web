@@ -54,7 +54,14 @@
         "body": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ayaka",
+    "guideImages": [
+      "https://i.ibb.co/xt2ygKc2/Ayaka-6-0-angtahimik-cote-auraolis-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/cKnnFj8S/Ayaka-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000003",
@@ -112,7 +119,15 @@
         "body": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "jean",
+    "guideImages": [
+      "https://i.ibb.co/MkCTL1GP/Jean-Healer-5-4-kol-cote-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/pBFHQWFh/Jean-Sunfire-5-4-radishmafan-squid-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/zHbdZhh4/Jean-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000006",
@@ -169,7 +184,14 @@
         "body": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lisa",
+    "guideImages": [
+      "https://i.ibb.co/FbCGKNQF/Lisa-De-AADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/jZqzKJkZ/Lisa-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000014",
@@ -226,7 +248,14 @@
         "body": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "barbara",
+    "guideImages": [
+      "https://i.ibb.co/dsQYRsqf/Barbara-5-7-kol-cegewinne-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/C3jq4tSj/Barbara-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000015",
@@ -284,7 +313,15 @@
         "body": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kaeya",
+    "guideImages": [
+      "https://i.ibb.co/PG8h3N6H/Kaeya-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/bjT0qW19/Kaeya-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/YFgjTy0b/Kaeya-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000016",
@@ -341,7 +378,14 @@
         "body": "Refunds 15% of the ore used when crafting Claymore-type weapons."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "diluc",
+    "guideImages": [
+      "https://i.ibb.co/VWNQgjmr/Diluc-5-0-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/kVZjBjhZ/Diluc-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000020",
@@ -404,7 +448,16 @@
         "body": "After completing Witch's Homework: Of the Little Wolf Pack, Razor will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\nAdditionally, Razor's Elemental Burst Lightning Fang is enhanced: The Wolf Within's DMG dealt is increased by 70% of Razor's ATK.\n\nHexerei: Secret Rite\nWhile the Wolf Within summoned by Razor's Elemental Burst Lightning Fang is active, if the Electro Sigils from Razor's Elemental Skill Claw and Thunder overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "razor",
+    "guideImages": [
+      "https://i.ibb.co/W1RzKMn/Razor-Aggravate-Infographic-4-4-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/xtZqKjYr/Razor-Physical-Infographic-4-4-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/Wp6RhSHv/Razor-Transformative-Infographic-4-4-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/zVz6SmF4/Razor-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000021",
@@ -462,7 +515,15 @@
         "body": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "amber",
+    "guideImages": [
+      "https://i.ibb.co/tM5wnHcT/Amber-Melt-Bunny-Bomber-DPS-5-4-cote-kol-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/jPdyVgSb/Amber-Melt-Charged-Attack-DPS-5-4-cote-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/BKqp4kpq/Amber-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000022",
@@ -524,7 +585,15 @@
         "body": "After completing Witch's Homework: Of the Waking of Wind, Venti will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhile the Stormeye created by the Elemental Burst Wind's Grand Ode is active, for 4s after a nearby active character triggers a Swirl or Stellar Swirl reaction, that character's DMG is increased by 50%, and Venti's Stormeye deals 135% of its original DMG."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "venti",
+    "guideImages": [
+      "https://i.ibb.co/YTNdDsK5/Venti-5-6-kol-cote-shade-645-Update-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/KzF05k3m/Venti-On-Field-DPS-6-5-shade-645-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/35bPXFsm/Venti-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000023",
@@ -582,7 +651,15 @@
         "body": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xiangling",
+    "guideImages": [
+      "https://i.ibb.co/bgWrnSXf/Xiangling-5-3-Squid-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/5WfmDdCw/Xiangling-5-3-Squid-cote-N3-AAM8-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/1fKyGbPH/Xiangling-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000024",
@@ -643,7 +720,14 @@
         "body": "When holding down on the Elemental Skill Tidecaller, 1 stack of power will accumulate every 0.8s, even when not under attack. This increases the DMG dealt at the point of unleashing.\nAdditionally, holding down to unleash Tidecaller and hitting the opponent also gives extra boosts based on the power accumulated: every stack active decreases Beidou's Elemental Skill CD by 4s, as well as regenerates 8 Elemental Energy for her. This effect can trigger once every 15s.\nAdditionally, when inside a Polestar Field, Beidou will enter the Radiance: Stellar-Conduct state."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "beidou",
+    "guideImages": [
+      "https://i.ibb.co/qLMQbf3X/Beidou-5-3-kol-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/zWwtYZD8/Beidou-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000025",
@@ -701,7 +785,15 @@
         "body": "When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xingqiu",
+    "guideImages": [
+      "https://i.ibb.co/60DMSfxw/Xingqiu-Off-Field-Bloom-Luna-I-N3-AAM8-BA.jpg",
+      "https://i.ibb.co/Kzf8bgR1/Xingqiu-Off-Field-Luna-I-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/39DY109x/Xingqiu-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000026",
@@ -757,7 +849,12 @@
         "body": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xiao",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/LXwt2RyT/Xiao-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000027",
@@ -814,7 +911,14 @@
         "body": "Displays the location of nearby ore veins used in forging on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ningguang",
+    "guideImages": [
+      "https://i.ibb.co/8g4LdtDX/Ningguang-5-8-euphorysm-cegewinne-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/XfzQkPZR/Ningguang-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000029",
@@ -875,7 +979,14 @@
         "body": "After completing Witch's Homework: Of Leaves That Spark, Klee will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen Klee deals DMG with Normal Attacks, Elemental Skills, or Elemental Bursts, she gains 1 Boom Badge that lasts 20s. Each type of attack can grant at most 1 Boom Badge this way, and each badge has its own independent timer. While Klee has 1/2/3 Boom Badges, her special Charged Attack Boom-Boom Strike deals 115%/130%/150% of its original DMG."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "klee",
+    "guideImages": [
+      "https://i.ibb.co/qM5ZD8Q6/Klee-On-field-6-3-ang-tahimik-cegewinne-auraolis-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/7xvhYB8M/Klee-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000030",
@@ -932,7 +1043,14 @@
         "body": "Refunds 15% of the ore used when crafting Polearm-type weapons."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "zhongli",
+    "guideImages": [
+      "https://i.ibb.co/DHb7bBTj/Zhongli-Infographic-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/MkZqcfTr/Zhongli-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000031",
@@ -993,7 +1111,14 @@
         "body": "After completing Witch's Homework: Of the Unexpected, Fischl will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nHark, Prince Nachtraben, Ozvaldo Hrafnavins, he who has witnessed the fall of countless worlds. Sing now the starry septet for your sovereign, for this is the moment of deepest sin, when the gathered souls at the end of causality shatter the darkness of fate.\nAdditionally, when Oz is on the field, party members will gain additional buff effects:\n· After a nearby party member triggers an Overloaded reaction, Fischl and other nearby active party members have their ATK increased by 22.5% for 10s.\n· After a nearby party member triggers an Electro-Charged or Lunar-Charged reaction, Fischl and other nearby active party members have their Elemental Mastery increased by 90 for 10s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "fischl",
+    "guideImages": [
+      "https://i.ibb.co/s92dWK67/Fischl-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/hFw2W45j/Fischl-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000032",
@@ -1050,7 +1175,14 @@
         "body": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "bennett",
+    "guideImages": [
+      "https://i.ibb.co/qMh2yzQB/Bennett-5-8-cote-auraolis-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/DHWLhwPw/Bennett-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000033",
@@ -1107,7 +1239,14 @@
         "body": "Increases your own party members' Normal Attack Level by 1."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "tartaglia",
+    "guideImages": [
+      "https://i.ibb.co/chDPz6YD/Tartaglia-Infographic-5-3-euphorysm-cegewinne-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/zTvJqbP8/Tartaglia-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000034",
@@ -1164,7 +1303,14 @@
         "body": "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "noelle",
+    "guideImages": [
+      "https://i.ibb.co/pr5Nz4J6/Noelle-N3-AAM8-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/7N6Tw6ZF/Noelle-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000035",
@@ -1226,7 +1372,15 @@
         "body": "The cooldown of the Elemental Skill Adeptus Art: Herald of Frost is reduced to 15s.\nRadiance: Stellar Glimmer: While the Herald of Frost is on the field, Qiqi's own party members will have the DMG they deal via the corresponding reactions enhanced:\nRadiance: Stellar-Conduct: Superconduct and Stellar-Conduct reaction DMG is increased by 50%.\nRadiance: Stellar Swirl: Cryo Swirl and Stellar Swirl reaction DMG dealt is increased by 50%.\nAdditionally, Qiqi will also enter the Radiance: Stellar-Conduct state when she is inside a Polestar Field, or the Radiance: Stellar Swirl state for 8s after a nearby party character triggers a Stellar Swirl reaction."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "qiqi",
+    "guideImages": [
+      "https://i.ibb.co/9kwWNyBb/Qiqi-5-4-Iced-Squid-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/jZH1CmTs/Qiqi-Ddw-ADPQQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/tPNStTTv/Qiqi-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000036",
@@ -1283,7 +1437,14 @@
         "body": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "chongyun",
+    "guideImages": [
+      "https://i.ibb.co/4R7ztbJ4/Chongyun-5-0-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/MyHmcLZV/Chongyun-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000037",
@@ -1341,7 +1502,15 @@
         "body": "Refunds 15% of the ore used when crafting Bow-type weapons."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ganyu",
+    "guideImages": [
+      "https://i.ibb.co/v4mwVCd2/Ganyu-Freeze-and-Mono-Cryo-5-3-euphorysm-cegewinne-1-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/GfmG8kpr/Ganyu-Melt-5-3-euphorysm-cegewinne-1-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/xtFkF5kd/Ganyu-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000038",
@@ -1402,7 +1571,14 @@
         "body": "After completing Witch's Homework: Beyond the Lesson, Albedo will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\n· When Albedo hits an opponent with his Elemental Skill within 20s of using an Elemental Skill, it will generate a Silver Isotoma near the opponent that lasts for 10s. When there are no Solar Isotomas created by Albedo on the field, and as long as Albedo is not downed, a single Silver Isotoma will begin generating Transient Blossoms, just as Solar Isotomas would. There can be up to two Silver Isotomas generated by Albedo on the field at any one time.\n· After creating a Solar Isotoma, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 4% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 12%.\n· After generating a Silver Isotoma, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 10% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 30%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "albedo",
+    "guideImages": [
+      "https://i.ibb.co/4nwR9bbv/Albedo-Infographic-4-5-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/mr3PQp6n/Albedo-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000039",
@@ -1463,7 +1639,14 @@
         "body": "Within 20s after using the Elemental Skill Icy Paws, Diona will also fire off three Icy Paws when party members trigger Stellar-Conduct, Superconduct, Cryo Swirl, or Stellar Swirl reactions. Icy Paws fired this way cannot generate Elemental Particles, nor will they generate a shield upon hitting opponents. This effect can occur once every 3.5s.\nAdditionally, Diona will also enter the Radiance: Stellar-Conduct state when she is inside a Polestar Field, or the Radiance: Stellar Swirl state for 8s after a nearby party member triggers a Stellar Swirl reaction."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "diona",
+    "guideImages": [
+      "https://i.ibb.co/20fsMXwM/Diona-5-3-cote-squid-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/x8rkxbGf/Diona-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000041",
@@ -1524,7 +1707,14 @@
         "body": "After completing Witch's Homework: Of Untested Insight, Mona will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of Astral Glow of Mercury, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's Omen duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "mona",
+    "guideImages": [
+      "https://i.ibb.co/QFXrHLpS/mona-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/xqkc0SqQ/Mona-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000042",
@@ -1580,7 +1770,12 @@
         "body": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "keqing",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/v6yWB4nQ/Keqing-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000043",
@@ -1641,7 +1836,14 @@
         "body": "After completing Witch's Homework: Of Wonderland Flowers, Sucrose will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\n· After Sucrose creates a Small Wind Spirit, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 5.71428% for 15s.\n· After Sucrose creates a Large Wind Spirit, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 7.14285% for 20s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sucrose",
+    "guideImages": [
+      "https://i.ibb.co/GfJ4j5Jp/Sucrose-Infographic-4-5-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/6Rqzs26d/Sucrose-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000044",
@@ -1700,7 +1902,16 @@
         "body": "When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xinyan",
+    "guideImages": [
+      "https://i.ibb.co/rfdd2xZv/Xinyan-Physical-DPS-Infographic-1-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/Jwm97GMs/Xinyan-Pyro-DPS-Infographic-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/DfhYyp3G/Xinyan-Shielder-Infographic-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/7NdXg5Cn/Xinyan-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000045",
@@ -1758,7 +1969,15 @@
         "body": "At night (18:00 – 06:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "rosaria",
+    "guideImages": [
+      "https://i.ibb.co/ks9fgQSv/Rosaria-Freeze-5-3-kol-squid-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/prKcGk7D/Rosaria-Reverse-Melt-5-3-kol-squid-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Vpj6BkZ0/Rosaria-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000046",
@@ -1815,7 +2034,14 @@
         "body": "When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional \"Suspicious\" dish of the same type."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "hutao",
+    "guideImages": [
+      "https://i.ibb.co/xqvGM81B/Hu-Tao-5-7-icedsquid-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/JRKfCq6G/Hu-Tao-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000047",
@@ -1872,7 +2098,14 @@
         "body": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kazuha",
+    "guideImages": [
+      "https://i.ibb.co/qFdGjSSW/Kazuha-5-0-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Gf7rwTWZ/Kaedehara-Kazuha-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000048",
@@ -1929,7 +2162,14 @@
         "body": "Displays the location of nearby resources unique to Liyue on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "yanfei",
+    "guideImages": [
+      "https://i.ibb.co/W4Bh1wDs/Yanfei-5-3-cote-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/fGG9NzqX/Yanfei-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000049",
@@ -1986,7 +2226,14 @@
         "body": "When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "yoimiya",
+    "guideImages": [
+      "https://i.ibb.co/rKtsZMkc/Yoimiya-5-7-cuppacote-auraolis-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/998gVVjX/Yoimiya-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000050",
@@ -2044,7 +2291,15 @@
         "body": "When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "thoma",
+    "guideImages": [
+      "https://i.ibb.co/MDWZDYkN/Thoma-Burgeon-5-3-cote-euphorysm-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/JRKCxVWP/Thoma-Support-5-3-cote-euphorysm-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/nNqB0HkC/Thoma-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000051",
@@ -2101,7 +2356,14 @@
         "body": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "eula",
+    "guideImages": [
+      "https://i.ibb.co/fd7xZXXJ/Eula-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/zw77CRy/Eula-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000052",
@@ -2162,7 +2424,14 @@
         "body": "Mora expended when ascending Swords and Polearms is decreased by 50%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "raiden",
+    "guideImages": [
+      "https://i.ibb.co/gFyShWYM/Raiden-Shogun-On-Field-DPS-5-7-euphorysm-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/JjKnh63G/Raiden-Shogun-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000053",
@@ -2220,7 +2489,15 @@
         "body": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sayu",
+    "guideImages": [
+      "https://i.ibb.co/TM0X32PM/Sayu-Off-Field-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/MQrkrDf/Sayu-On-Field-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/nsD41n77/Sayu-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000054",
@@ -2283,7 +2560,16 @@
         "body": "Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kokomi",
+    "guideImages": [
+      "https://i.ibb.co/mCKbYq7B/Kokomi-Driver-Infographic-5-1-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/YVBpx5x/Kokomi-Support-Infographic-5-1-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/TD8kXHtJ/Kokomi-Bloom-6-3-Luna-4-updated-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/nNtR8SqS/Sangonomiya-Kokomi-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000055",
@@ -2340,7 +2626,14 @@
         "body": "Displays the location of nearby resources unique to Inazuma on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "gorou",
+    "guideImages": [
+      "https://i.ibb.co/VcDtSFv9/Gorou-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/sJ6xVKDp/Gorou-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000056",
@@ -2397,7 +2690,14 @@
         "body": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sara",
+    "guideImages": [
+      "https://i.ibb.co/M0j3srk/Sara-5-0-cote-euphorysm-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/NgYcCSzt/Kujou-Sara-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000057",
@@ -2454,7 +2754,14 @@
         "body": "When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "itto",
+    "guideImages": [
+      "https://i.ibb.co/Tx5Jv0bf/Itto-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/LdQksLfM/Itto-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000058",
@@ -2512,7 +2819,9 @@
         "body": "Extends the duration of the Sesshou Sakura by 10s. When a nearby party member triggers a Superconduct or Stellar-Conduct reaction, the next instance of Sesshou Sakura lightning is enhanced as follows: DMG dealt is increased at 80% of Yae Miko's ATK. This effect can trigger once every 2.5s.\nRadiance: Stellar-Conduct: An enhanced Sesshou Sakura lightning bolt hit on an opponent will also cause an additional instance of Electro DMG at 200% of Yae Miko's ATK. This DMG is considered Stellar-Conduct DMG.\nAdditionally, when inside a Polestar Field, Yae Miko will enter the Radiance: Stellar-Conduct state."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000059",
@@ -2569,7 +2878,14 @@
         "body": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "heizou",
+    "guideImages": [
+      "https://i.ibb.co/DPB2Vmn0/Shikanoin-Heizou-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/jBfdQdq/Shikanoin-Heizou-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000060",
@@ -2626,7 +2942,14 @@
         "body": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "yelan",
+    "guideImages": [
+      "https://i.ibb.co/twHRpzPk/Yelan-5-5-euphorysm-cege-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/0RS1j1TX/Yelan-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000061",
@@ -2683,7 +3006,14 @@
         "body": "When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kirara",
+    "guideImages": [
+      "https://i.ibb.co/Xf7qZtXc/Kirara-5-3-cote-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/VYSqLprD/Kirara-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000062",
@@ -2741,7 +3071,15 @@
         "body": "When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "aloy",
+    "guideImages": [
+      "https://i.ibb.co/Fkj5Lnkz/Aloy-1-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/xqzJW8Wm/Aloy-2-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/WNWmdM1p/Aloy-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000063",
@@ -2798,7 +3136,14 @@
         "body": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "shenhe",
+    "guideImages": [
+      "https://i.ibb.co/ynCpd5sr/Shenhe-5-5-kol-cege-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/N2pvL9GC/Shenhe-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000064",
@@ -2855,7 +3200,14 @@
         "body": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "yunjin",
+    "guideImages": [
+      "https://i.ibb.co/S4Tpz9by/Yun-Jin-Infographic-5-6-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/TD4fwVDm/Yun-Jin-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000065",
@@ -2913,7 +3265,15 @@
         "body": "Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "shinobu",
+    "guideImages": [
+      "https://i.ibb.co/mjLyJTL/Kuki-Hyperbloom-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/6R4YLNWz/Kuki-Quicken-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/hxxmPGTr/Kuki-Shinobu-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000066",
@@ -2970,7 +3330,14 @@
         "body": "When Ayato cooks a dish perfectly, he has an 18% chance to receive an additional \"Suspicious\" dish of the same type."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ayato",
+    "guideImages": [
+      "https://i.ibb.co/WWDZNMGg/Ayato-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/5X5GFyVv/Ayato-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000067",
@@ -3027,7 +3394,14 @@
         "body": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "collei",
+    "guideImages": [
+      "https://i.ibb.co/mF6Nzqsr/Collei-6dot0-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/SXq41Ghv/Collei-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000068",
@@ -3086,7 +3460,16 @@
         "body": "Has a 25% chance to recover some of the materials used when crafting Character and Weapon Materials."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "dori",
+    "guideImages": [
+      "https://i.ibb.co/4gwp15M3/Dori-Hyperbloom-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/rK3LKfdv/Dori-On-Field-DPS-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/nqRnDqjX/Dori-Support-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/67k1QrXz/Dori-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000069",
@@ -3143,7 +3526,14 @@
         "body": "Displays the location of nearby resources unique to Sumeru on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "tighnari",
+    "guideImages": [
+      "https://i.ibb.co/6Rc8BM9Q/Tighnari-5-2-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/B2BhzQm5/Tighnari-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000070",
@@ -3200,7 +3590,14 @@
         "body": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "nilou",
+    "guideImages": [
+      "https://i.ibb.co/fzF6WLYK/Nilou-6-3-Luna-4-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Hp7m1Fxf/Nilou-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000071",
@@ -3261,7 +3658,14 @@
         "body": "If Cyno unleashes the Elemental Skill Secret Rite: Chasmic Soulfarer while not in the Pactsworn Pathclearer state, he will enter Pactsworn Pathclearer for 6s.\nAdditionally, when in a Polestar Field, Cyno will enter the Radiance: Stellar-Conduct state."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "cyno",
+    "guideImages": [
+      "https://i.ibb.co/cnLLX0m/Cyno-Infographic-4-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/1fVPHK6L/Cyno-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000072",
@@ -3320,7 +3724,16 @@
         "body": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "candace",
+    "guideImages": [
+      "https://i.ibb.co/h1Cw48bm/Candace-On-Field-DPS-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/5hk7S9pY/Candace-Bloom-5-5-euphorysm-cote-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/dJVScSJj/Candace-Off-Field-Enabler-5-5-euphorysm-squid-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/JW0y9TWk/Candace-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000073",
@@ -3377,7 +3790,14 @@
         "body": "Nahida can use All Schemes to Know to interact with some harvestable items within a fixed AoE.\nThis skill may even have some other effects..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "nahida",
+    "guideImages": [
+      "https://i.ibb.co/8n1wSGrM/Nahida-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/NdfkJrRw/Nahida-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000074",
@@ -3435,7 +3855,15 @@
         "body": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "layla",
+    "guideImages": [
+      "https://i.ibb.co/tp70bQC2/Layla-Build-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/xSbKN76k/Layla-Teams-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/gZS0d6f5/Layla-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000075",
@@ -3492,7 +3920,14 @@
         "body": "Mora expended when ascending Bows and Catalysts is decreased by 50%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "wanderer",
+    "guideImages": [
+      "https://i.ibb.co/JRqJxSyY/Wanderer-5-3-euphorysm-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/5XW5ccFL/Wanderer-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000076",
@@ -3549,7 +3984,14 @@
         "body": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "faruzan",
+    "guideImages": [
+      "https://i.ibb.co/nxy2MDr/Faruzan-Infographic-5-8-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Xf2ZsMFd/Faruzan-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000077",
@@ -3606,7 +4048,14 @@
         "body": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "yaoyao",
+    "guideImages": [
+      "https://i.ibb.co/hJfn94Ch/Yaoyao-5-4-cote-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/WpkRKJTV/Yaoyao-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000078",
@@ -3663,7 +4112,14 @@
         "body": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "alhaitham",
+    "guideImages": [
+      "https://i.ibb.co/rK5kL43J/Alhaitham-5-4-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Dn2D3rj/Alhaitham-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000079",
@@ -3721,7 +4177,15 @@
         "body": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "dehya",
+    "guideImages": [
+      "https://i.ibb.co/Tx6k43gV/Dehya-Off-field-Support-5-7-kol-cege-cote-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/wNdk5nwm/Dehya-On-Field-DPS-5-7-kol-cege-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/rRwtfGnq/Dehya-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000080",
@@ -3778,7 +4242,14 @@
         "body": "Displays the location of nearby resources unique to Mondstadt on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "mika",
+    "guideImages": [
+      "https://i.ibb.co/rXJ4q5Y/Mika-Infographic-4-5-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/JV2Zt0Z/Mika-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000081",
@@ -3835,7 +4306,14 @@
         "body": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kaveh",
+    "guideImages": [
+      "https://i.ibb.co/twTNqG3x/Kaveh-5-7-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/35ZS2sZX/Kaveh-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000082",
@@ -3892,7 +4370,14 @@
         "body": "When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "baizhu",
+    "guideImages": [
+      "https://i.ibb.co/pBhCv3Yq/Baizhu-5-3-lapsy-cege-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/qqKHv44/Baizhu-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000083",
@@ -3951,7 +4436,16 @@
         "body": "Shows the location of nearby Recovery Orbs on the minimap. The Aquatic Stamina and HP gained from touching Orbs will be increased by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lynette",
+    "guideImages": [
+      "https://i.ibb.co/9kZKQ9Dz/Lynette-DPS-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/k6kgmgkz/Lynette-Reaction-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/pv6LQn5D/Lynette-Support-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/VKwMjby/Lynette-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000084",
@@ -4008,7 +4502,14 @@
         "body": "Displays the location of nearby resources unique to Fontaine on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lyney",
+    "guideImages": [
+      "https://i.ibb.co/nMrpwvx7/Lyney-5-3-kol-cegewinne-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/7xpxx6d1/Lyney-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000085",
@@ -4065,7 +4566,14 @@
         "body": "Decreases Aquatic Stamina consumption for your own party members by 35%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "freminet",
+    "guideImages": [
+      "https://i.ibb.co/xtyyftq7/Freminet-Physical-5-0-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/YFMcqrYc/Freminet-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000086",
@@ -4127,7 +4635,15 @@
         "body": "Radiance: Stellar-Conduct: The Ascension Talent \"There Shall Be a Plea for Justice\" is changed to the following:\nWhen Wriothesley's HP is less than 60%, he will obtain a \"Gracious Rebuke: Unveiling.\" This turns the Charged Attack of his Normal Attack: Forceful Fists of Frost into the enhanced Luster: Vaulting Fist, which will not consume Stamina and restores 30% Max HP to Wriothesley upon hit. Wriothesley can gain HP in this way once every 2s.\nAdditionally, the third and fifth strikes of Repelling Fist enhanced by Chilling Penalty will deal 60% and 80% of their original Cryo DMG respectively, while Luster: Vaulting Fist will deal 100% of its original AoE Cryo DMG. The aforementioned DMG is considered as Stellar-Conduct DMG, and Wriothesley deals 30% increased Stellar-Conduct DMG.\nAdditionally, when inside a Polestar Field, Wriothesley will enter the Radiance: Stellar-Conduct state."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "wriothesley",
+    "guideImages": [
+      "https://i.ibb.co/nsXXSCLy/Wriothesley-Melt-5-4-euphorysm-cote-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/007VY1K/Wriothesley-Non-Melt-DPS-5-4-euphorysm-cote-cege-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/JF52nKbd/Wriothesley-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000087",
@@ -4184,7 +4700,14 @@
         "body": "Increases underwater Sprint SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "neuvillette",
+    "guideImages": [
+      "https://i.ibb.co/LhXphW2Q/Neuvillette-6-3-cote-auntyplays-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/BKZTPjbm/Neuvillette-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000088",
@@ -4241,7 +4764,14 @@
         "body": "After activating the Special Analysis Zoom Lens, Charlotte's \"Framing: Freezing Point Composition\" Hold Mode cannot trigger its original effects, but instead enables her to take photos in a rather unique manner..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "charlotte",
+    "guideImages": [
+      "https://i.ibb.co/Cpcsf5SR/Charlotte-5-5-Lapsy-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/pBwpbWZr/Charlotte-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000089",
@@ -4298,7 +4828,14 @@
         "body": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "furina",
+    "guideImages": [
+      "https://i.ibb.co/J4Z1rdP/Furina-Luna-I-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/WjsJdNn/Furina-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000090",
@@ -4356,7 +4893,15 @@
         "body": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "chevreuse",
+    "guideImages": [
+      "https://i.ibb.co/tM7yJWVv/Chevreuse-Quickswap-DPS-Infographic-5-5-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/7dRTfhc4/Chevreuse-Support-Infographic-5-5-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/dsdPggrs/Chevreuse-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000091",
@@ -4413,7 +4958,14 @@
         "body": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "navia",
+    "guideImages": [
+      "https://i.ibb.co/xb9Xy9K/Navia-6-5-euphorysm-cege-auraolis-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/FkgW4fCC/Navia-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000092",
@@ -4471,7 +5023,15 @@
         "body": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "gaming",
+    "guideImages": [
+      "https://i.ibb.co/93tV6y54/Gaming-Full-1024x1024-De-QADPAQ.jpg",
+      "https://i.ibb.co/5qMMRyy/Gaming-Infographic-5-6-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/r2DDWSxC/Gaming-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000093",
@@ -4528,7 +5088,14 @@
         "body": "Increases gliding SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xianyun",
+    "guideImages": [
+      "https://i.ibb.co/VfJh2WM/Xianyun-5-5-euphorysm-cege-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Kzz2k83k/Xianyun-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000094",
@@ -4584,7 +5151,12 @@
         "body": "When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.\nThis effect does not take effect in Domains, Trounce Domains, and the Spiral Abyss. Swift Stride does not stack."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "chiori",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/1tG9jQnn/Chiori-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000095",
@@ -4641,7 +5213,14 @@
         "body": "While underwater, heals your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sigewinne",
+    "guideImages": [
+      "https://i.ibb.co/XxnPtNYD/Sigewinne-5-5-cegewinne-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Y4RgW7MH/Sigewinne-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000096",
@@ -4700,7 +5279,16 @@
         "body": "While in combat, Arlecchino gains a 40% Pyro DMG Bonus and can only be healed through Balemoon Rising."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "arlecchino",
+    "guideImages": [
+      "https://i.ibb.co/KxSzVxFt/Arlecchino-5-8-euphorysm-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/GfwhwVvf/arlecchino-rotations-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/gFD03rYR/Arlecchino-N3-AAM9-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/x8XBRv9p/Arlecchino-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000097",
@@ -4757,7 +5345,14 @@
         "body": "Displays the location of nearby resources unique to Sumeru on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sethos",
+    "guideImages": [
+      "https://i.ibb.co/27Gyqtwx/Sethos-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/VGXRMTp/Sethos-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000098",
@@ -4815,7 +5410,15 @@
         "body": "Displays the location of nearby resources unique to Fontaine on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "clorinde",
+    "guideImages": [
+      "https://i.ibb.co/k60rCxCN/Clorinde-6-3-euphorysm-cege-shade-plumetra-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/S43RGXxg/Clorinde-Overload-6-3-euphorysm-cege-shade-plumetra-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/d4Q3h43d/Clorinde-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000099",
@@ -4872,7 +5475,14 @@
         "body": "When the Lumidouce Case created by Emilie is on the field, all party members gain 85% Pyro RES against Burning DMG."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "emilie",
+    "guideImages": [
+      "https://i.ibb.co/TBzkR9Pc/Emilie-6-0-cote-plumetra-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/SXMJrMtv/Emilie-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000100",
@@ -4933,7 +5543,14 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby resources unique to Natlan will appear on your mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kachina",
+    "guideImages": [
+      "https://i.ibb.co/HpgWtTdK/Kachina-5-3-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/jPTVLwkp/Kachina-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000101",
@@ -4994,7 +5611,14 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, interacting with some harvestable items will increase your own party members' Movement SPD by 15% for 10s. Additionally, the location of nearby resources unique to Natlan will appear on your mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "kinich",
+    "guideImages": [
+      "https://i.ibb.co/7MYQ7y9/Kinich-Infographic-5-6-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/HDvWJhHB/Kinich-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000102",
@@ -5055,7 +5679,14 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, 15 Phlogiston will be restored when interacting with some harvestable items. Additionally, the location of nearby resources unique to Natlan will appear on your mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "mualani",
+    "guideImages": [
+      "https://i.ibb.co/cck3tVm7/Mulani-N3-AAM8-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/MyKggtbC/Mualani-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000103",
@@ -5116,7 +5747,14 @@
         "body": "Triggering Nightsoul Transmission restores 15 Phlogiston."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "xilonen",
+    "guideImages": [
+      "https://i.ibb.co/wZMgkYQ7/Xilonen-5-5-euphorysm-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/nsZs6cX2/Xilonen-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000104",
@@ -5177,7 +5815,14 @@
         "body": "25 Phlogiston will be restored when your own party members defeat an opponent. This effect can trigger once every 12s.\nThis has no effect in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "chasca",
+    "guideImages": [
+      "https://i.ibb.co/mFzLCzpH/Chasca-Infographic-5-8-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/bkvrmGG/Chasca-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000105",
@@ -5238,7 +5883,14 @@
         "body": "Increases gliding SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ororon",
+    "guideImages": [
+      "https://i.ibb.co/VW0VWzqK/Ororon-Infographic-5-8-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/qYG39YB9/Ororon-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000106",
@@ -5300,7 +5952,15 @@
         "body": "The party's Nightsoul Transmission CD is decreased by 20%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "mavuika",
+    "guideImages": [
+      "https://i.ibb.co/ycgcDsXF/Mavuika-Off-Field-DPS-5-8-cuppacote-auraolis-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/d4Fnj3qZ/Mavuika-On-Field-DPS-5-8-cuppacote-auraolis-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/8gvXbXHb/Mavuika-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000107",
@@ -5361,7 +6021,14 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, triggering \"Nightsoul Burst\" restores 20 Phlogiston.\nThis cannot take effect in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "citlali",
+    "guideImages": [
+      "https://i.ibb.co/GvG3rzKM/Citlali-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/d4DK20nG/Citlali-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000108",
@@ -5418,7 +6085,14 @@
         "body": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lanyan",
+    "guideImages": [
+      "https://i.ibb.co/0yN5hc1p/Lanyan-5-3-cote-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/xKj7xSgj/Lan-Yan-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000109",
@@ -5480,7 +6154,15 @@
         "body": "When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in the Dreamdrifter state, the next instance of periodic AoE Anemo DMG she deals to nearby enemies during that same state will be increased by 1,000% of her Elemental Mastery. The aforementioned effect can trigger once every 2.5s.\nRadiance: Stellar Swirl: When Yumemizuki Mizuki deals to an opponent the above enhanced AoE Anemo DMG, she will also deal an additional instance of Anemo DMG at 1,000% of her Elemental Mastery. This DMG is considered Stellar Swirl reaction DMG.\n\nAdditionally, while Yumemizuki Mizuki is in the Dreamdrifter state, the Elemental Mastery of nearby party characters is also increased by 10% of her Elemental Mastery.\nYumemizuki Mizuki will also enter the Radiance: Stellar Swirl state for 8s when a nearby party member triggers a Stellar Swirl reaction."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "mizuki",
+    "guideImages": [
+      "https://i.ibb.co/848mnmm1/Mizuki-5-4-euphorysm-baloopy-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/m5rQXTZ2/Yumemizuki-Mizuki-De-QADPQQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/GQqvHDM8/Yumemizuki-Mizuki-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000110",
@@ -5541,7 +6223,14 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, regain 10 Phlogiston when Phlogiston levels drop below 50%. This can occur once every 10s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "iansan",
+    "guideImages": [
+      "https://i.ibb.co/212n1Wb0/Iansan-Infographic-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/5gZV06fz/Iansan-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000111",
@@ -5602,7 +6291,14 @@
         "body": "Varesa's Sprint speed is increased. When she is not in combat, her Sprint Stamina consumption will also increase.\nAdditionally, while in an area with Phlogiston Mechanics within Natlan, your party members will restore 20 Phlogiston when consuming food. This effect can occur once every 10s and does not take effect in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "varesa",
+    "guideImages": [
+      "https://i.ibb.co/yFFZvnSn/Varesa-Infographic-1-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/3m2RSymn/Varesa-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000112",
@@ -5660,7 +6356,15 @@
         "body": "#When using the Hold form of her Elemental Skill Low-Temperature Cooking, Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode.\n\nCooking Mek: Off-the-Cuff Cookery Mode\n· Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food.\n· Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM {TIMEZONE}."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "escoffier",
+    "guideImages": [
+      "https://i.ibb.co/JWsXfXms/Escoffier-Freeze-Infographic-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/X068G6j/Escoffier-General-Infographic-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/pB4hh0JJ/Escoffier-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000113",
@@ -5722,7 +6426,15 @@
         "body": "While in an area with Phlogiston Mechanics within Natlan, when the current active party member or indwelt saurian has less than 40% HP, Ifa will consume 10 Phlogiston and restore 40% of their HP. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ifa",
+    "guideImages": [
+      "https://i.ibb.co/gL3b9byv/Ifa-Anemo-DPS-6-1-kol-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/39tjKp6P/Ifa-Swirl-DPS-6-1-kol-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/CfVt5Q9/Ifa-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000114",
@@ -5779,7 +6491,14 @@
         "body": "When all party members are either Hydro or Cryo, and if there is at least 1 Hydro and 1 Cryo character, your own party members' Elemental Skill Level is increased by 1."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "skirk",
+    "guideImages": [
+      "https://i.ibb.co/FqLW2Q5L/Skirk-6-1-euphorysm-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Kx5vbQTq/Skirk-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000115",
@@ -5836,7 +6555,14 @@
         "body": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or the Spiral Abyss. Swift Stride does not stack."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "dahlia",
+    "guideImages": [
+      "https://i.ibb.co/Ngrbp5C8/Dahlia-5-7-shade-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/gL1pF6df/Dahlia-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000116",
@@ -5897,7 +6623,14 @@
         "body": "When Ineffa uses food, there is a 30% chance of gaining a seasoning ingredient.\n\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "ineffa",
+    "guideImages": [
+      "https://i.ibb.co/RGjYjYk0/Ineffa-Infographic-6-3-auraolis-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/35d8zrNk/Ineffa-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000119",
@@ -5958,7 +6691,14 @@
         "body": "Displays the location of nearby resources unique to Nod-Krai on the mini-map.\nAdditionally, Lauma appears to have a special affinity with some small animals affected by kuuvahki..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lauma",
+    "guideImages": [
+      "https://i.ibb.co/zWQyqCcq/Lauma-6-5-euphorysm-aunty-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/LDcZ7WRf/Lauma-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000120",
@@ -6018,7 +6758,12 @@
         "body": "Displays the location of nearby resources unique to Nod-Krai on the mini-map.\nAdditionally, Flins appears to be able to decipher the whispers of the Wild Hunt..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "flins",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/0jVM5HFW/Flins-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000121",
@@ -6079,7 +6824,14 @@
         "body": "Displays the location of nearby resources unique to Nod-Krai on the mini-map.\nAdditionally, Aino appears to be able to alter the Cool Your Jets Ducky's appearance in some way..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "aino",
+    "guideImages": [
+      "https://i.ibb.co/R4YwvJw6/Aino-6-0-plumetra-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/kgwLX9h3/Aino-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000122",
@@ -6141,7 +6893,15 @@
         "body": "Gains 25% more rewards when dispatched on a Nod-Krai Expedition for 20 hours."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "nefer",
+    "guideImages": [
+      "https://i.ibb.co/Q76QR93c/nefer-rotations-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/hFB27fpg/Nefer-N3-AAM9-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/YFyP4ryy/Nefer-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000123",
@@ -6204,7 +6964,16 @@
         "body": "After completing Witch's Homework: Of This World, Durin will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nIncreases all effects of the Ascension Talent Light Manifest of the Divine Calculus (except for Duration) by 75%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "durin",
+    "guideImages": [
+      "https://i.ibb.co/v4R66F1g/Durin-Burst-DPS-Dark-6-2-cegewinne-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/LXTwZv0b/Durin-Off-Field-Support-Light-6-3-cegewinne-1-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/V0CX51Sj/durin-offfield-rotations-A3c-AAzw-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/v62rmpLD/Durin-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000124",
@@ -6265,7 +7034,14 @@
         "body": "When dispatched on an expedition in Nod-Krai, time consumed is reduced by 25%."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "jahoda",
+    "guideImages": [
+      "https://i.ibb.co/rfHNSG4w/Jahoda-6-2-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/sp3hQcw6/Jahoda-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000125",
@@ -6328,7 +7104,16 @@
         "body": "If one of your party members is incapacitated while in the Nod-Krai or Frost Moon regions, Columbina will revive this character. The amount of HP the character will have upon revival is based on Columbina's Friendship Level. This effect can occur once every 100s. This effect does not trigger in Domains, Trounce Domains, or the Spiral Abyss.\nAdditionally, Columbina appears to have a special affinity for certain animals who are influenced by kuuvahki..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "columbina",
+    "guideImages": [
+      "https://i.ibb.co/6R3pmw1b/Columbina-Off-Field-Rotations-6-3-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/W4P7J1fH/Columbina-Off-Field-Support-and-DPS-6-3-euphorysm-1-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/Hws9jSr/Columbina-On-Field-DPS-6-3-euphorysm-2-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/VWJkc9ps/Columbina-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000126",
@@ -6390,7 +7175,15 @@
         "body": "At night (18:00 – 06:00), when not in combat, restore 1 Elemental Energy to Zibai every 2 seconds.\nThis effect does not work in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "zibai",
+    "guideImages": [
+      "https://i.ibb.co/NnW5QyhZ/Zibai-Teams-6-5-euphorysm-aunty-A3c-AAzw-E.jpg",
+      "https://i.ibb.co/m5LDQMrC/Zibai-De-QADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/fzCFzV5r/Zibai-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000127",
@@ -6451,7 +7244,14 @@
         "body": "At night (18:00 – 06:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.\nAdditionally, Illuga appears to be able to decipher the whispers of the Wild Hunt..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "illuga",
+    "guideImages": [
+      "https://i.ibb.co/p6vTMzxx/Illuga-6-3-cegewinne-1-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/1fZNFW2Y/Illuga-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000128",
@@ -6513,7 +7313,15 @@
         "body": "After completing Witch's Homework: The Untitled Question, Varka will become a Hexerei character. When the party includes at least 2 Hexerei characters, you will gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nEnhances the special Elemental Skill Four Winds' Ascension: When Varka hits an opponent with Normal Attack(s) in Sturm und Drang, the CD of Four Winds' Ascension will be reduced by 1s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "varka",
+    "guideImages": [
+      "https://i.ibb.co/mCSjX1sv/Varka-Infographic-6-4-cegewinne-Ddw-ADPAQ.jpg",
+      "https://i.ibb.co/r231BJrn/Varka-Rotations-6-4-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/212V66RS/Varka-A3c-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000129",
@@ -6575,7 +7383,15 @@
         "body": "After completing Witch's Homework: Of Various Foes, Lohen becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen the special Elemental Skill Etched Into Bone and Soul hits an opponent or the Elemental Burst Manifest Judgment is unleashed, if Lohen's Will to Win is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "lohen",
+    "guideImages": [
+      "https://i.ibb.co/cS8cQFZL/Lohen-N3-AAM9-BA.jpg",
+      "https://i.ibb.co/xSFdRHRJ/Lohen-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/rfLPdYJR/Lohen-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000130",
@@ -6636,7 +7452,14 @@
         "body": "When Linnea is not in combat, the charge time of her Aimed Shot is greatly decreased, and she will shoot an Ultra Convenient Quick Arrow instead. Different effects will occur depending on the targets hit:\n· Specific animals: Ultra Convenient Quick Arrow will be transformed into a special \"Net\" that can capture the essence and form of these animals, using them as a medium to manifest the animal's physical form again. The \"Net\" can only be used for a limited number of times each week. \n· Ore veins used in forging: Linnea will dispatch Lumi, who will quickly strike at the ore marked by the Ultra Convenient Quick Arrow, then collect the dislodged ore. If Lumi is not on the field, Linnea will summon her for a short duration to help obtain the ore.\n\nThe DMG dealt to opponents by Linnea's Ultra Convenient Quick Arrow is reduced to 20% of her original Charged Arrow. Additionally, after firing a certain number of Ultra Convenient Quick Arrows within a short period of time, Linnea needs to take a temporary break before she can continue using them."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "linnea",
+    "guideImages": [
+      "https://i.ibb.co/FbGS7Bz0/Linnea-6-5-cegewinne-v2-Ddw-ADPAQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/67kC5hD4/Linnea-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000131",
@@ -6697,7 +7520,14 @@
         "body": "After completing Witch's Homework: The Role of a Guide...?, Nicole becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nIncreases the DMG dealt by Hexerei characters' Arcane Projections by 300% of Nicole's ATK."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "nicole",
+    "guideImages": [
+      "https://i.ibb.co/HpqQ1XHB/Nicole-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/Gv7zk9mb/Nicole-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000132",
@@ -6758,7 +7588,14 @@
         "body": "After completing Witch's Homework: Of What Is Contested, Prune becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nAfter a Hexerei character in the party affected by the Tolling Rally effect triggers an Elemental Reaction on an opponent, Prune's ATK is increased by 60% for 5s. If the Elemental Reaction triggered is a Swirl or Stellar Swirl reaction, the triggering character's ATK will additionally be increased by 30% for 5s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "prune",
+    "guideImages": [
+      "https://i.ibb.co/qL0Cn9jh/Prune-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/ycJyx3Yk/Prune-Ddw-ADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000133",
@@ -6819,7 +7656,14 @@
         "body": "When Sandrone is in the party, you will gain additional snack rewards after turning in your Daily Commissions with Katheryne."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "sandrone",
+    "guideImages": [
+      "https://i.ibb.co/HTKkBbWM/Sandrone-N3-AAM9-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/YBM9332h/Sandrone-A3k-AAzw-E.jpg"
+    ]
   },
   {
     "id": "character-10000134",
@@ -6831,7 +7675,13 @@
       "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
     ],
     "sections": [],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000135",
@@ -6843,7 +7693,13 @@
       "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
     ],
     "sections": [],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000140",
@@ -6903,7 +7759,12 @@
         "body": "Vodyanitsa, prima donna of the Korolevskiy Troupe, will sing in her very own voice instead of playing the musical instrument."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "vodyanitsa",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/1YbrdXXf/Vodyanitsa-N3-AAM9-BA.jpg"
+    ]
   },
   {
     "id": "character-10000143",
@@ -6963,7 +7824,12 @@
         "body": "Holding on Sprint or Jump when Vesna is not in combat will cause her to enter the Coursing state.\n\nCoursing\nContinuously consumes Stamina to hover in mid-air. Sprinting or tapping Jump to go higher expends additional Stamina. Including the hold on Jump that triggers Coursing, Vesna can go higher up to 3 times in each instance of the Coursing state.\n\nAdditionally, in Snezhnaya (excluding Nod-Krai), when Vesna is switched onto the field while the currently active party member is in mid-air and not in combat, she will immediately enter the Coursing state and regenerate 50 Stamina. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "vesna",
+    "guideImages": [],
+    "cardImages": [
+      "https://i.ibb.co/7xBLJxxg/Vesna-N3-AAM9-BA.jpg"
+    ]
   },
   {
     "id": "character-10000148",
@@ -7024,7 +7890,14 @@
         "body": "Displays the location of nearby resources unique to Snezhnaya on the mini-map."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "alyosha",
+    "guideImages": [
+      "https://i.ibb.co/sJXMnDd4/Alyosha-Ddw-ADPQQ.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/bnmjfp2/Alyosha-De-QADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000150",
@@ -7085,7 +7958,14 @@
         "body": "Shows the locations of Snezhnaya's Local Specialties on the mini-map.\nPracticing dance in one's spare time might even trigger other effects..."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "odette",
+    "guideImages": [
+      "https://i.ibb.co/n8LBqNBV/Odette-N3-AAM9-BA.jpg"
+    ],
+    "cardImages": [
+      "https://i.ibb.co/23VFVPYJ/Odette-De-QADPAQ.jpg"
+    ]
   },
   {
     "id": "character-10000005-2",
@@ -7142,7 +8022,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members trigger Nightsoul Burst, Traveler will receive 1 stack of Blade of the Sacred Flame, max 2 stacks. After obtaining 2 stacks of Blade of the Sacred Flame, performing a Charged Attack will consume all stacks of Blade of the Sacred Flame and transform into a special Charged Attack: Inferno.\n\nCharged Attack: Inferno\n· Each Charged Attack hit deals increased, Nightsoul-aligned Pyro DMG. Increase in DMG is equal to 200% of Traveler's ATK.\n· Charged Attack: Inferno can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-3",
@@ -7199,7 +8085,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members' current HP increases or decreases by 5%, Traveler will receive 1 stack of Blade of Many Waters. You can gain 1 stack of Blade of Many Waters this way once every 4s, max 3 stacks. After obtaining 3 stacks of Blade of Many Waters, performing a Charged Attack will consume all stacks of Blade of Many Waters and transform into the special Charged Attack: Tidebound.\n\nCharged Attack: Tidebound\n· Each Charged Attack hit deals increased Hydro DMG. Increase in DMG is equal to 150% of Traveler's ATK,\n· When Traveler's HP is no less than 50%, 10% of Traveler's Max HP will be consumed to increase DMG inflicted by each Charged Attack hit by 100% of Traveler's ATK.\n· When Traveler's HP is lower than 50%, one instance of healing equal to 25% of Traveler's Max HP will be restored upon hitting an enemy.\n· Charged Attack: Tidebound can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-4",
@@ -7256,7 +8148,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when Pyro, Hydro, Cryo, or Electro attacks from nearby party members hit opponents, Traveler will receive 1 stack of Blade of the Dawn Breeze. Each Elemental Type can grant 1 Blade of the Dawn Breeze stack. After obtaining at least 2 stacks of Blade of the Dawn Breeze, performing a Charged Attack will consume all stacks of Blade of the Dawn Breeze and transform into the special Charged Attack: Whirlwind.\n\nCharged Attack: Whirlwind\n· Each Charged Attack hit deals increased Anemo DMG. Increase in DMG is equal to 60% of Traveler's ATK.\n· Every time a Blade of the Dawn Breeze of a certain elemental type is consumed, a Blade Wind matching this elemental type will also be summoned, dealing elemental DMG equal to 50% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· Charged Attack: Whirlwind can be triggered up to once every 15s.\n· For the duration of Charged Attack: Whirlwind, no Blade of the Dawn Breeze will be obtained."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-5",
@@ -7317,7 +8215,13 @@
         "body": "Draws new strength and power from their past travels: Every Elemental Type the Traveler has resonated with now grants an additional enhancement effect.\n\nAdditionally, when a nearby party member deals Stellar-Conduct or Stellar Swirl DMG, the Traveler gains 1 stack of \"Icepoint.\" 1 stack of Icepoint can be obtained in this way once every 2s, max 3 stacks. When the Traveler unleashes a Charged Attack at 3 stacks of Icepoint, all stacks are consumed to change the attack into a special Charged Attack: Freezing Ice.\n\nCharged Attack: Freezing Ice\n· Cryo DMG dealt is increased by 140% of the Traveler's ATK, and the Traveler also gains 2 stacks of Frostglow.\n· Charged Attack: Freezing Ice can be unleashed once every 15s. Additionally, the DMG Bonus from the Ascension Talent \"Ever-Keen Frost\" does not apply to Charged Attack: Freezing Ice.\nRadiance: Stellar Glimmer: DMG from Charged Attack: Freezing Ice is instead considered Cryo DMG of the corresponding Stellar Glimmer reaction type."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-6",
@@ -7374,7 +8278,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members become protected by a shield, when the shield is replaced for any reason, or when Geo Constructs are created, the Traveler will receive 1 stack of Blade of Archaic Petra, max 3 stacks. Up to 1 stack may be obtained every second in this way. After obtaining 3 stacks of Blade of Archaic Petra, performing a Charged Attack will consume all stacks of Blade of Archaic Petra and transform into the special Charged Attack: Rockfell.\n\nCharged Attack: Rockfell\n· Each Charged Attack hit deals increased Geo DMG. Increase in DMG is equal to 120% of Traveler's ATK.\n· For 15s after hitting an opponent, nearby party members will have their shield strength temporarily increased by 20%.\n· Charged Attack: Rockfell can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-7",
@@ -7431,7 +8341,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nIn addition, when nearby party members unleash an Elemental Burst, Traveler will receive 1 stack of Blade of Resounding Thunder, max 3 stacks. After obtaining 3 stacks of Blade of Resounding Thunder, performing a Charged Attack will consume all stacks of Blade of Resounding Thunder and transform into the special Charged Attack: Detonate.\n\nCharged Attack: Detonate\n· Each Charged Attack hit deals increased Electro DMG. Increase in DMG is equal to 100% of Traveler's ATK. \n· 3s after hitting the enemy, 1 additional lightning strike will be triggered, dealing Electro DMG equal to 200% of Traveler's ATK. 1 Abundance Amulet will also be created. This DMG is considered Charged Attack DMG.\n· Charged Attack: Detonate can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000005-8",
@@ -7488,7 +8404,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs. \n\nAdditionally, when Dendro Cores (including Bountiful Cores, Seeds of Deceit) appear nearby on the field, or when the party obtains Verdant Dew, Traveler will receive 1 stack of Blade of Verdant Viridis. These two methods can each grant the Traveler up to 1 stack of Blade of Verdant Viridis every 4s, max 3 stacks. After obtaining 3 stacks of Blade of Verdant Viridis, performing a Charged Attack will consume all stacks of Blade of Verdant Viridis and transform into the special Charged Attack: Verdessence.\n\nCharged Attack: Verdessence\n· Each Charged Attack hit deals increased Dendro DMG. The increase in DMG is equal to 80% of Traveler's ATK. Two Vinecores will also be created on the spot, which will explode after 4/8s respectively, inflicting Dendro DMG equal to 120% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· Charged Attack: Verdessence can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-2",
@@ -7545,7 +8467,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members trigger Nightsoul Burst, Traveler will receive 1 stack of Blade of the Sacred Flame, max 2 stacks. After obtaining 2 stacks of Blade of the Sacred Flame, performing a Charged Attack will consume all stacks of Blade of the Sacred Flame and transform into a special Charged Attack: Inferno.\n\nCharged Attack: Inferno\n· Each Charged Attack hit deals increased, Nightsoul-aligned Pyro DMG. Increase in DMG is equal to 200% of Traveler's ATK.\n· Charged Attack: Inferno can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-3",
@@ -7602,7 +8530,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members' current HP increases or decreases by 5%, Traveler will receive 1 stack of Blade of Many Waters. You can gain 1 stack of Blade of Many Waters this way once every 4s, max 3 stacks. After obtaining 3 stacks of Blade of Many Waters, performing a Charged Attack will consume all stacks of Blade of Many Waters and transform into the special Charged Attack: Tidebound.\n\nCharged Attack: Tidebound\n· Each Charged Attack hit deals increased Hydro DMG. Increase in DMG is equal to 150% of Traveler's ATK,\n· When Traveler's HP is no less than 50%, 10% of Traveler's Max HP will be consumed to increase DMG inflicted by each Charged Attack hit by 100% of Traveler's ATK.\n· When Traveler's HP is lower than 50%, one instance of healing equal to 25% of Traveler's Max HP will be restored upon hitting an enemy.\n· Charged Attack: Tidebound can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-4",
@@ -7659,7 +8593,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when Pyro, Hydro, Cryo, or Electro attacks from nearby party members hit opponents, Traveler will receive 1 stack of Blade of the Dawn Breeze. Each Elemental Type can grant 1 Blade of the Dawn Breeze stack. After obtaining at least 2 stacks of Blade of the Dawn Breeze, performing a Charged Attack will consume all stacks of Blade of the Dawn Breeze and transform into the special Charged Attack: Whirlwind.\n\nCharged Attack: Whirlwind\n· Each Charged Attack hit deals increased Anemo DMG. Increase in DMG is equal to 60% of Traveler's ATK.\n· Every time a Blade of the Dawn Breeze of a certain elemental type is consumed, a Blade Wind matching this elemental type will also be summoned, dealing elemental DMG equal to 50% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· Charged Attack: Whirlwind can be triggered up to once every 15s.\n· For the duration of Charged Attack: Whirlwind, no Blade of the Dawn Breeze will be obtained."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-5",
@@ -7720,7 +8660,13 @@
         "body": "Draws new strength and power from their past travels: Every Elemental Type the Traveler has resonated with now grants an additional enhancement effect.\n\nAdditionally, when a nearby party member deals Stellar-Conduct or Stellar Swirl DMG, the Traveler gains 1 stack of \"Icepoint.\" 1 stack of Icepoint can be obtained in this way once every 2s, max 3 stacks. When the Traveler unleashes a Charged Attack at 3 stacks of Icepoint, all stacks are consumed to change the attack into a special Charged Attack: Freezing Ice.\n\nCharged Attack: Freezing Ice\n· Cryo DMG dealt is increased by 140% of the Traveler's ATK, and the Traveler also gains 2 stacks of Frostglow.\n· Charged Attack: Freezing Ice can be unleashed once every 15s. Additionally, the DMG Bonus from the Ascension Talent \"Ever-Keen Frost\" does not apply to Charged Attack: Freezing Ice.\nRadiance: Stellar Glimmer: DMG from Charged Attack: Freezing Ice is instead considered Cryo DMG of the corresponding Stellar Glimmer reaction type."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-6",
@@ -7777,7 +8723,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nAdditionally, when nearby party members become protected by a shield, when the shield is replaced for any reason, or when Geo Constructs are created, the Traveler will receive 1 stack of Blade of Archaic Petra, max 3 stacks. Up to 1 stack may be obtained every second in this way. After obtaining 3 stacks of Blade of Archaic Petra, performing a Charged Attack will consume all stacks of Blade of Archaic Petra and transform into the special Charged Attack: Rockfell.\n\nCharged Attack: Rockfell\n· Each Charged Attack hit deals increased Geo DMG. Increase in DMG is equal to 120% of Traveler's ATK.\n· For 15s after hitting an opponent, nearby party members will have their shield strength temporarily increased by 20%.\n· Charged Attack: Rockfell can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-7",
@@ -7834,7 +8786,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs.\n\nIn addition, when nearby party members unleash an Elemental Burst, Traveler will receive 1 stack of Blade of Resounding Thunder, max 3 stacks. After obtaining 3 stacks of Blade of Resounding Thunder, performing a Charged Attack will consume all stacks of Blade of Resounding Thunder and transform into the special Charged Attack: Detonate.\n\nCharged Attack: Detonate\n· Each Charged Attack hit deals increased Electro DMG. Increase in DMG is equal to 100% of Traveler's ATK. \n· 3s after hitting the enemy, 1 additional lightning strike will be triggered, dealing Electro DMG equal to 200% of Traveler's ATK. 1 Abundance Amulet will also be created. This DMG is considered Charged Attack DMG.\n· Charged Attack: Detonate can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000007-8",
@@ -7891,7 +8849,13 @@
         "body": "Draw new strength from journeys past. For every element you have resonated with, you gain additional buffs. \n\nAdditionally, when Dendro Cores (including Bountiful Cores, Seeds of Deceit) appear nearby on the field, or when the party obtains Verdant Dew, Traveler will receive 1 stack of Blade of Verdant Viridis. These two methods can each grant the Traveler up to 1 stack of Blade of Verdant Viridis every 4s, max 3 stacks. After obtaining 3 stacks of Blade of Verdant Viridis, performing a Charged Attack will consume all stacks of Blade of Verdant Viridis and transform into the special Charged Attack: Verdessence.\n\nCharged Attack: Verdessence\n· Each Charged Attack hit deals increased Dendro DMG. The increase in DMG is equal to 80% of Traveler's ATK. Two Vinecores will also be created on the spot, which will explode after 4/8s respectively, inflicting Dendro DMG equal to 120% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· Charged Attack: Verdessence can be triggered up to once every 15s."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "botKey": "traveler",
+    "guideImages": [
+      "https://i.ibb.co/PRZ8hzj/Traveler-A3c-AAz0-E.jpg",
+      "https://i.ibb.co/XxCmy0D7/Traveler-A3c-AAz0-E.jpg"
+    ],
+    "cardImages": []
   },
   {
     "id": "character-10000117-2",
@@ -7921,7 +8885,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-3",
@@ -7951,7 +8917,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-4",
@@ -7981,7 +8949,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-5",
@@ -8011,7 +8981,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-6",
@@ -8041,7 +9013,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-7",
@@ -8071,7 +9045,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000117-8",
@@ -8101,7 +9077,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-2",
@@ -8131,7 +9109,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-3",
@@ -8161,7 +9141,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-4",
@@ -8191,7 +9173,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-5",
@@ -8221,7 +9205,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-6",
@@ -8251,7 +9237,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-7",
@@ -8281,7 +9269,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "character-10000118-8",
@@ -8311,7 +9301,9 @@
         "body": "When the Manekin unleashes an Elemental Skill or Burst, it will change to one of its existing Cosmetic Plans at random."
       }
     ],
-    "status": "published"
+    "status": "published",
+    "guideImages": [],
+    "cardImages": []
   },
   {
     "id": "weapon-15516",

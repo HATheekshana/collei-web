@@ -30,7 +30,7 @@ export default async function handler(req,res){
   if(route==='logout'){res.setHeader('Set-Cookie',cookie('',0));return send(200,{ok:true});}
   if(route==='content'&&req.method==='PUT'){
    let item;try{item=validate(body);}catch(e){return send(400,{error:e.message});}
-   await (await db()).collection('content').replaceOne({id:item.id},item,{upsert:true});return send(200,{item});
+   await (await db()).collection('content').updateOne({id:item.id},{$set:item},{upsert:true});return send(200,{item});
   }
   return send(404,{error:'Not found.'});
  }catch(e){console.error('Collei API:',e.name);return send(503,{error:'The service is temporarily unavailable. Check the server configuration and retry.'});}
